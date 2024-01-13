@@ -17,7 +17,3 @@ This project is a simple solar system animation created using the p5.js library.
 ## Usage
 
 Feel free to explore and modify the code to add more celestial bodies, change colors, or experiment with different animations. The code is well-commented, making it easy to understand and customize.
-
-```javascript
-// Example customization: Change the color of the sun
-celestialObj(color(255, 255, 0), 200); // SUN
