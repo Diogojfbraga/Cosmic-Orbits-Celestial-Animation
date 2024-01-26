@@ -1,5 +1,8 @@
 # Solar System Animation
 
+![image](https://github.com/Diogojfbraga/Cosmic-Orbits-Celestial-Animation/assets/67931865/c8a1f18f-c8bf-4e70-9c67-8d023b526679)
+
+
 This project is a simple solar system animation created using the p5.js library. It visualizes the orbits and rotations of celestial bodies, including the sun, earth, and moons.
 
 ## Features
